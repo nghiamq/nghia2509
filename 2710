@@ -1,4 +1,5 @@
-#EXTM3U bichngoc (Path http://gg.gg/bichngoc)
+#EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U bichngoc (Path http://gg.gg/nghia2509)
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD
@@ -393,6 +394,17 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 #https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&cre=coca&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="hbohd-asia" group-title="Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBOᵃˢᶦᵃ
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:0 tvg-id="cinemaxhd-asia" group-title="Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",HBOᵃˢᶦᵃ Cine
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Film",WBTV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" group-title="Film",Cinema World
@@ -405,10 +417,6 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="http://www.kix-tv.com/assets/favicon.ico" group-title="Film",KIX
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://www.rapidtvnews.com/images/tvN_logo_-_29_April_2017_1.jpg" group-title="Film" ",TVN HD
-https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
-#EXTINF:-1 group-title="Film" tvg-id="TVN MOVIES HD" tvg-logo="https://i.ibb.co/Tqs8M02/unnamed.jpg",  TVN MOVIES HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066023
 #EXTINF:-1 group-title="Film" tvg-id="BOO HD" tvg-logo="https://i.ibb.co/vHcspp0/FILMBOX-HD.jpg",BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://www.homa-tv.com/logo/cinefilmhd.png" group-title="Film" ",FILM HD
@@ -427,7 +435,6 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoc
 #EXTINF:0 tvg-id="cinemaxhd" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
-
 #EXTINF:0  tvg-id="warnertvhd" group-title="📽︎| HBO" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png",Warner Bros
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #http://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
@@ -437,7 +444,6 @@ https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-
 #EXTINF:0  tvg-id="cinemaworldhd" group-title="📽︎| HBO" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
@@ -481,16 +487,18 @@ http://xcchui2.mrnova.online/live/60140_.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:0 tvg-id="cinemaxhd-asia" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",HBOᵃˢᶦᵃ Cine
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
 
 #EXTINF:0 tvg-id="redbyhbohd-asia" group-title="📽︎| HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",HBOᵃˢᶦᵃ Red
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-#EXTINF:0 tvg-id="cinemaxhd-asia" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",HBOᵃˢᶦᵃ Cine
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
 
 #EXTINF:0 tvg-id="hbofamilyhd-asia" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBOᵃˢᶦᵃ Family
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="English"
@@ -1204,4 +1212,3 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:0 group-title="🍑| Art", tvg-logo="https://i.ibb.co/JBWv5Mb/received-930124617584913.gif",🔞| 18+ Only
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://gg.gg/cc-18
-
