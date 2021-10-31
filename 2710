@@ -505,10 +505,12 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="IPTV Sports",Playboy TV
 http://127.0.0.1:6878/ace/getstream?id=f691a59e53697fccd6349370bfe8354d40559518
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/xSZVCHw/CHN43-FB-535.jpg" group-title="THIEU NHI",Disney Channel +1
+#EXTINF:-1 tvg-id="Disney Channel +1 " tvg-logo="https://i.ibb.co/xSZVCHw/CHN43-FB-535.jpg" group-title="THIEU NHI",Disney Channel +1
 http://xcchui2.mrnova.online/live/60779_.m3u8
 #EXTINF:-1 tvg-id="disney"  group-title="THIEU NHI" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/c0/844e8969b50080cb05f4d62acc5cbecc.jpg/revision/latest?cb=20171118134405", Disney International FHD
 https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network BG " tvg-logo="https://i.ibb.co/xSZVCHw/CHN43-FB-535.jpg" group-title="THIEU NHI",Cartoon Network BG
+http://tv.datastream.iptv.uno:80/live/A51VQNC7Ln196/SerUyulg7u196/11146.m3u8
 #EXTINF:0 tvg-id="baby_first" group-title="THIEU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/e6/74/5d/e6745d40-210e-315f-eaec-d5206a7c356c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="THIEU NHI" roup-title="THIEU NHI", BabyTV
@@ -1102,20 +1104,3 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:0 group-title="✨| 4K" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2021/03/Ultra-Nature.png",ULTRA NATURE
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/83146
-
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_1yBW7A8_bb1IF9UtaC5c3izus4RKFFxJ49qnKPrgVj0jKMIKYuum1ZIGyvpSVi9WWe4&usqp=CAU",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist.m3u8
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQYYh5Tgbmuc9XJGus4yjYTIwCJ0RQfphU9aOni=s900-c-k-c0x00ffffff-no-rj",A3 bikini
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://www.logolynx.com/images/logolynx/03/0363b81af006a0824f366a3bcfd449a9.png",Playboy TV
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#http://gg.gg/ccpboy
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMksaUXLmf5y_SCdCMRhYNVdcN3qdQ83R4NA&usqp=CAU",Kaloopy
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://lh3.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g",Midnite Secrets
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 group-title="🍑| Art", tvg-logo="https://i.ibb.co/JBWv5Mb/received-930124617584913.gif",🔞| 18+ Only
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-18
