@@ -58,6 +58,8 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg" group-title="VTC",VTC16
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg" group-title="HTV",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg" group-title="HTV",HTV2 HD
@@ -88,6 +90,7 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png?w=345&h=210&mode=scale" group-title="HTV",HTV coop
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇸| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/SCTV1_logo_2017.png/revision/latest/scale-to-width-down/250?cb=20201119113949&path-prefix=vi", SCTV1
@@ -233,6 +236,7 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=
 #http://gg.gg/ccbtv5|Referer=http://sctvonline.vn/
 #https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
+
 
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="⭕| VTVcab" tvg-logo="https://s1.vnecdn.net/ngoisao/restruct/i/v165/weddingfair/graphics/taitro/GTTV.png",VTVcab1
@@ -844,6 +848,54 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:0 group-title="THE THAO" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+#EXTM3U url-tvg="http://bit.ly/guidevn" deinterlace=1
+#EXTINF:-1 group-title="THE THAO" tvg-id="Sky Sport 1 HD",Sky Sport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=0c5c2fec058863f769d68253d8d6eba94fa6eab1
+#EXTINF:-1 group-title="THE THAO" tvg-id="Sky Sport 2 HD",Sky Sport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=e77f405167ab5d134121f058e803fcd3a28b8614
+#EXTINF:-1 group-title="THE THAO" tvg-id="Sky Sport Austria 1 HD",Sky Sport Austria HD
+http://127.0.0.1:6878/ace/getstream?id=9807d703e179cd8cc6337cf3fb70a6e5ca93bfcf
+#EXTINF:-1 group-title="THE THAO" tvg-id="Sky Sport F1 HD",Sky Sport F1 HD
+http://127.0.0.1:6878/ace/getstream?id=d355cd10f64fcbf73422421e337efcc234687b87
+#EXTINF:-1 group-title="THE THAO",Маtch ТV
+http://127.0.0.1:6878/ace/getstream?id=4f39924be7a58862363c0424dcb2f1d786ef7d9d
+#EXTINF:-1 group-title="THE THAO",Маtch Futbol 1 HD sv1
+http://185.228.135.48:8080/tv_match_football_1_hd/index.m3u8
+#EXTINF:-1 group-title="THE THAO",Маtch Futbol 1 HD sv2
+http://193.33.88.172/football1_hd/index.m3u8
+#EXTINF:-1 group-title="THE THAO",Маtch Futbol 2 HD sv1
+http://185.228.135.48:8080/tv_match_football_2_hd/index.m3u8
+#EXTINF:-1 group-title="THE THAO",Маtch Futbol 2 HD sv2
+http://193.33.88.172/football2_hd/index.m3u8
+#EXTINF:-1 group-title="THE THAO",Маtch Futbol 3 HD sv1
+http://185.228.135.48:8080/tv_match_football_3_hd/index.m3u8
+#EXTINF:-1 group-title="THE THAO",Маtch Futbol 3 HD sv2
+http://193.33.88.172/football3_hd/index.m3u8
+#EXTINF:-1 group-title="THE THAO",MOVISTAR LaLiga FHD
+http://127.0.0.1:6878/ace/getstream?id=370596fc1975c0cd4a3c9fc913b53fe491ae54ea
+#EXTINF:-1 group-title="THE THAO",MOVISTAR LC FHD
+http://127.0.0.1:6878/ace/getstream?id=033fb800e7a89279c8438669adcb35c10f0ec2c8
+#EXTINF:-1 group-title="THE THAO",MOVISTAR LC 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=ec88d635f346c280f664b77b737699ea0925f21c
+#EXTINF:-1 group-title="THE THAO",MOVISTAR LC 2 FHD
+http://127.0.0.1:6878/ace/getstream?id=d6ad59e832a2414fa265c42602f975576079430c
+#EXTINF:-1 group-title="THE THAO",BT Sport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=d63cf72bc2661238fcd2e343ccc2582b5bd9bc14
+#EXTINF:-1 group-title="THE THAO",BT Sport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=99c2acebde1c1dc7a05419771110ff64fb444a96
+#EXTINF:-1 group-title="THE THAO",BT Sport 3 HD
+http://127.0.0.1:6878/ace/getstream?id=3c60f36f8f913be1b4edae0cbc356d6cf9a52936
+#EXTINF:-1 group-title="THE THAO" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK1
+http://127.0.0.1:6878/ace/getstream?id=6995fd79ae02f5559172feaccbfe46e0418c9502
+#EXTINF:-1 group-title="THE THAO" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK2
+http://127.0.0.1:6878/ace/getstream?id=ef85d17ddd020e6d5924338ee8a246a6be1c7eff
+#EXTINF:-1 group-title="THE THAO" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",TIENGRUOI.LINK3
+http://127.0.0.1:6878/ace/getstream?id=bdc6c6efb3572f2710ac16eee1e2e471ea621017
+#EXTINF:-1 group-title="THE THAO",CVace Channel
+http://gg.gg/cvchannel
+
+
+
 #EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="IPTV Sports",Playboy TV
 http://127.0.0.1:6878/ace/getstream?id=f691a59e53697fccd6349370bfe8354d40559518
 #EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://3.bp.blogspot.com/-4S_V_ACUERc/W_AgJcQXDpI/AAAAAAAAGhc/3KED7KT9qDYKOUg1XX_VZNzFIguR8kwlwCK4BGAYYCw/s1600/logo%2BBein%2Bsport%2BNews.png", group-title="IPTV Sports",Bein Sports New 
@@ -1027,166 +1079,13 @@ http://royall.xyz:2082/live/6949003927915110/1y7gicb9l086jhc/224120.ts
 #EXTINF:-1 tvg-id="NEWS_DIGITAL_EN.bein" tvg-logo="https://3.bp.blogspot.com/-4S_V_ACUERc/W_AgJcQXDpI/AAAAAAAAGhc/3KED7KT9qDYKOUg1XX_VZNzFIguR8kwlwCK4BGAYYCw/s1600/logo%2BBein%2Bsport%2BNews.png", group-title="IPTV Sports",Bein Sports New 
 #http://62.210.251.227:8081/yacinetv/BeinSportNews/chunks.m3u8
 
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://media2.giphy.com/media/yMV6UwELtfsGsUb6yf/giphy.gif",Test
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cclive1|Referer=https://sctvonline.vn/
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 01
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m201nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 02
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 03
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 04
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m303nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 05
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 06
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@lusd1/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 07
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 08
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 09
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://i.imgur.com/TTprlUP.png", Live 11
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
-
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 12
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1HD/chunklist.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 13
-#EXTVLCOP#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may5/chunklist.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 14
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3HD/chunklist.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 15
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://179386814.global.cdnfastest.com//live/183ade8e1e13ec5491a9cfdd585ae5f9304/chunklist.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 16
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://p90020921.vnroute.com/may51/chunks.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 17
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://p90020921.vnroute.com/may21/chunks.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 18
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may91/chunklist.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 19
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may4/chunklist.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-#EXTINF:-1 group-title="🏆| Sự kiện thể thao" tvg-logo="https://90p1.com/wp-content/uploads/2021/07/logo-90p.png",Live 20
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8|Referer=https://xoilac.90phuttt.xyz/live
-
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 01
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 02
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 03
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa03_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 04
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa04_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 05
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 06
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 07
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 08
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 09
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa09_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/UEFA_logo.svg/1200px-UEFA_logo.svg.png",UEFA 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/uefa10_vhls.smil/playlist.m3u8
 
 
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 01
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 02
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 03
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 04
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 05
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 06
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 07
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 08
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 09
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://static.wikia.nocookie.net/captaintsubasa/images/a/a9/AFC_Champions_League.png",AFC 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
 
 
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 01
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 02
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 03
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 04
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 05
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 06
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup06_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 07
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup07_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 08
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup08_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 09
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup09_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="🏆| Sự kiện thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png",World Cup 10
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hdevent/worldcup10_hls.smil/chunklist_b2500000.m3u8
+
+
+
 
 #EXTINF:0 group-title="✨| 4K" tvg-logo="https://play-lh.googleusercontent.com/MDqkIoSsj4bFmxTa8082V7c6ed9akFZwdPk0gLxDFYK4XoRaOSmkuTC67qSrdMAO3Wk",BLOOMBERG
 #EXTVLCOPT:http-user-agent="CoocaaTV"
