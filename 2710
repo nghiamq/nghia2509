@@ -38,13 +38,12 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="inthebox" group-title="Phim" tvg-logo="https://vthanh.xyz/ic/241.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
 http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=inthebox
 
-#EXTINF: 0 tvg-id = "boxhits" group-title = "Phim" tvg-logo = "https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg", BOX Hits
-#EXTVLCOPT: http-user-agent = "CoocaaTV"
-http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="boxhits" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/242.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
+http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=boxhits
 
-#EXTINF: 0 tvg-id = "hollywoodclassics" group-title = "Phim" tvg-logo = "https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg", Kinh điển Hollywood
-#EXTVLCOPT: http-user-agent = "CoocaaTV"
-http://gg.gg/cc-holly|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Phim" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
 
 #EXTINF: -1 tvg-logo = "https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title = "Phim", WBTV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
@@ -69,106 +68,50 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF: 0 tvg-id = "cinemaxhd" group-title = "Phim" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jpcmax4NTg2", CzzineVmax8
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 
+#EXTINF: 0 tvg-id = "hollywoodclassics" group-title = "Phim" tvg-logo = "https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg", Hollywoodclassics
+#EXTVLCOPT: http-user-agent = "CoocaaTV"
+http://gg.gg/cc-holly|Referer=http://sctvonline.vn/
+#EXTINF: 0 tvg-id = "boxhits" group-title = "Phim" tvg-logo = "https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg", BOX Hits
+#EXTVLCOPT: http-user-agent = "CoocaaTV"
+http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
 
-#-*--Kẹo-*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://ottlivevng.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://ottlivevng.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://ottlivevng.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://ottlivevng.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://ottlivevng.kplus.vn/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE (SD)
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 (SD)
-
-#EXTINF:-1 tvg-id="hbohd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/244.png", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/244.png", HBO HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/245.png", Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/245.png", Cinemax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/192.png", Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/192.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="inthebox" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/241.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/241.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
 http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=inthebox
-#EXTINF:-1 tvg-id="boxhits" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/242.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/242.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
 http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=boxhits
-#EXTINF:-1 tvg-id="man" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/243.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
+#EXTINF:-1 tvg-id="man" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/243.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
 http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=man
-#EXTINF:-1 tvg-id="drfithd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/196.png", Dr Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/196.png", Dr Fit
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=drfit|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/194.png", Happy Kids
+#EXTINF:-1 tvg-id="happykids" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/194.png", Happy Kids
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=happykids|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="musicbox" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/240.png", Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/240.png", Music Box
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=musicbox|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="planetearthhd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=planetearth|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="woman" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/197.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8", Woman
+#EXTINF:-1 tvg-id="woman" group-title="🍭| inthebox" tvg-logo="https://vthanh.xyz/ic/197.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8", Woman
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=woman|Referer=http://sctvonline.vn/
 
-
-#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://i.ibb.co/Q8cwLj8/kcine-hd-BEARTV.png" group-title="K+",K+ CINE HD
-#EXTVLCOPT:http-user-agent="BearTV"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=604709EE8F20DCED&Ticket=31E9F2C8421C61F4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.ibb.co/jZ9Hnn3/klife-hd-BEARTV.png" group-title="K+",K+ LIFE HD
-#EXTVLCOPT:http-user-agent="BearTV"
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=604709EE8F20DCED&Ticket=31E9F2C8421C61F4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
-#EXTINF:-1 tvg-id="ksport1hd" tvg-logo="https://i.ibb.co/Gn42T7H/k-sport1-hd-BEARTV.png" group-title="K+",K+ SPORT 1 HD
-#EXTVLCOPT:http-user-agent="BearTV"
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=604709EE8F20DCED&Ticket=31E9F2C8421C61F4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
-#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://i.ibb.co/G9s2Vpr/k-sport2-hd-BEARTV.png" group-title="K+",K+ SPORT 2 HD
-#EXTVLCOPT:http-user-agent="BearTV"
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=604709EE8F20DCED&Ticket=31E9F2C8421C61F4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live.vegacdn.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
 
 
 
