@@ -13,18 +13,13 @@ http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/5.png", VTV5 HD
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="1️⃣| VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8?bycoca
+
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/12ZVqnS/VTV5-TNB-1.png", VTV5 Tây Nam Bộ HD
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.ibb.co/XyNYs84/VTV5TN.jpg", VTV5 Tây Nguyên HD
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/8.png", VTV6 HD
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-#EXTINF:0 tvg-id="vtv6hd" group-title="1️⃣| VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8?bycoca
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/9.png", VTV7 HD
 http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/10.png", VTV8 HD
@@ -647,6 +642,12 @@ http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=5&id=vtv6vnpt
 #Http://stream.trialsonsever.com/vtv6/mpegts
 #EXTINF:0 tvg-id="vtv6hd"group-title="❤| VTV" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822379155/501f4c886dd7_180_180.png",VTV6 FHD global
 #http://cdn.mysocola.live/vtv6/mpegts
+#EXTINF:0 tvg-id="vtv6hd" group-title="❤| VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8?bycoca
+#EXTINF:0 tvg-id="vtv5hd" group-title="❤| VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8?bycoca
 
 #EXTINF:-1 group-title="🟢| Ace Stream" tvg-logo="https://yt3.ggpht.com/TL7lI3Fe27iBgTPriqV5U3FfoRku5aQtU1kyzUj1NIu_XiCQftEt1aaGQtzQLMVF5-VFZre-8Q=s900-c-k-c0x00ffffff-no-rj", Vebo.tv 1
 http://127.0.0.1:6878/ace/getstream?id=fa149a0a37809ebfca5148041c3888498eaae429
