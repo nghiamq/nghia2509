@@ -47,20 +47,23 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8?bycoca
 
 #EXTINF:0 tvg-id="hbohd" group-title="Film" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://vthanh.xyz/ic/192.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn/
+
+http://gg.gg/cc-movie|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://vthanh.xyz/ic/241.png", In The Box
+https://cdnfpt.vthanh.xyz/inthebox/mpegts
+#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
+https://cdnfpt.vthanh.xyz/boxhits/mpegts
+
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://vthanh.xyz/ic/241.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
-http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=inthebox
-#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://vthanh.xyz/ic/242.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
-http://vthanh.me/getlink2021/flussonic_vthanh.php?pass=vienthi&sv=1&id=boxhits
-
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Film",WBTV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
@@ -91,10 +94,6 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX Movie¹
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://gg.gg/cc-movie|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://vthanh.xyz/ic/241.png", In The Box
-https://cdnfpt.vthanh.xyz/inthebox/mpegts
-#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
-https://cdnfpt.vthanh.xyz/boxhits/mpegts
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -110,6 +109,7 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/244.png", HBO HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/245.png", Cinemax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
@@ -140,35 +140,6 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=planetearth|Referer=http://sctvonline
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/197.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8", Woman
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=woman|Referer=http://sctvonline.vn/
-
-#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-HBO
-
-#EXTINF:0 tvg-id="hbohd-asia" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO (Asia)
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?bycoca
-
-#EXTINF:0 tvg-id="redbyhbohd-asia" group-title="📽︎| HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",HBO Red (Asia)
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?bycoca
-#EXTINF:0 tvg-id="cinemaxhd-asia" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png",HBO Cine (Asia)
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?bycoca
-#EXTINF:0 tvg-id="hbofamilyhd-asia" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family (Asia)
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="English"
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?bycoca
-#EXTINF:0 tvg-id="hbohitshd-asia" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (Asia)
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="English"
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?bycoca
-#EXTINF:0 tvg-id="hbosignaturehd-asia" group-title="📽︎| HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature (Asia)
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="English"
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?bycoca
-
 
 #-*--SCTV-*--#
 
@@ -676,42 +647,42 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklis
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m402nd/chunklist.m3u8|Referer=https://cakhia8.tv/truc-tiep
 
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 1
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 1
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk4/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv1|Referer=https://xoilac.90phuttttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live  2
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live  2
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x2y4/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv2|Referer=https://xoilac.90phuttttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 3
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 3
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x4/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 4
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 4
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@sk1/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv4|Referer=https://xoilac.90phuttttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 5
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 5
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv5|Referer=https://xoilac.90phuttttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 6
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 6
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke2x2/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv6|Referer=https://xoilac.90phuttttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 7
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 7
 #EXTVLCOPT:http-user-agent="BearTV"
 https://2459955770.cloud.anycastapnic.com/pep/x3y2/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv7|Referer=https://xoilac.90phuttttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 8
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke4x1/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv8|Referer=https://xoilac.90phuttttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 9
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 9
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x3/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv9|Referer=https://xoilac.90phuttttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 10
+#EXTINF:0 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 10
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x2/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv10|Referer=https://xoilac.90phuttttt.xyz/live
