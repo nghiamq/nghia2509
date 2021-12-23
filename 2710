@@ -58,6 +58,11 @@ http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn/
 
+#EXTINF:0 tvg-id="inthebox" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/ccbbox|Referer=http://sctvonline.vn/
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxchannel/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
+
 #EXTINF:0 tvg-id="hits" tvg-logo="https://i.ibb.co/7yNvG1D/BOX-HITS.png", BOX HITS
 http://103.214.9.53/boxhits/mpegts
 #https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
@@ -95,13 +100,6 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Film",Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX Movie¹
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-movie|Referer=http://sctvonline.vn/
-
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-holly|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="hbohd" group-title="Film" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
@@ -120,10 +118,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bycoca|Refere
 http://gg.gg/ccbhits|Referer=http://sctvonline.vn/
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxhits/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-id="inthebox" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/ccbbox|Referer=http://sctvonline.vn/
-#https://e4.endpoint.cdn.sctvonline.vn/hls/boxchannel/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
+
 
 #-*--📦| In The Box-*--#
 #EXTINF:-1 tvg-id="hbohd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/244.png", HBO HD
