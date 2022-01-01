@@ -54,7 +54,7 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 EXTINF:-1 group-title="Film" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_logo.jpg" ,HBO HD
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 
-#EXTINF:0 tvg-id="boxmovie1" group-title="🇧🌎🇽" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX Movie¹
+#EXTINF:0 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX Movie¹
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #http://gg.gg/ccbmovie|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
