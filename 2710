@@ -50,7 +50,7 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="hbo" group-title="Film" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_logo.jpg",HBO
+#EXTINF:0 tvg-id="hbo" group-title="Film" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg",HBO
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX Movie¹
@@ -110,49 +110,11 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 
-
-
-
-#EXTINF:0 tvg-id="hits" tvg-logo="https://i.ibb.co/7yNvG1D/BOX-HITS.png", BOX HITS
+#EXTINF:0 tvg-id="hits" group-title="Film" tvg-logo="https://i.ibb.co/7yNvG1D/BOX-HITS.png", BOX HITS
 http://103.214.9.53/boxhits/mpegts
 #https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
 
 
-#-*--📦| In The Box-*--#
-#EXTINF:-1 tvg-id="hbohd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/244.png", HBO HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/245.png", Cinemax HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/192.png", Box Movie 1
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
-##EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/241.png", In The Box
-https://cdnfpt.vthanh.xyz/inthebox/mpegts
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
-https://cdnfpt.vthanh.xyz/boxhits/mpegts
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/243.png", Man
-https://cdnfpt.vthanh.xyz/man/mpegts
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/196.png", Dr Fit
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=drfit|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/194.png", Happy Kids
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=happykids|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/240.png", Music Box
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=musicbox|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=planetearth|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/197.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8", Woman
-#EXTVLCOPT:http-user-agent=VThanhTivi
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=woman|Referer=http://sctvonline.vn/
 
 #-*--SCTV-*--#
 
