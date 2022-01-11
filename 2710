@@ -50,8 +50,7 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-
-EXTINF:-1 group-title="Film" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_logo.jpg" ,HBO HD
+#EXTINF:0 tvg-id="hbo" group-title="Film" tvg-logo="http://aputra.xyz/localhost/chhn/hbo_logo.jpg",HBO
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX Movie¹
