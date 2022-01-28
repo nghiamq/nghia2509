@@ -104,6 +104,8 @@ http://103.214.9.53/boxhits/mpegts
 #https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
 #EXTINF:0 tvg-id="hbo" group-title="Film" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg",HBO
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+#EXTINF:0 tvg-id="cinemax" group-title="Film" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg",HBO
+http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=cinemax
 #-*--VTVCAB-*--#
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="🇻| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/98/Gi%E1%BA%A3i_Tr%C3%AD_TV_VTVCab1_logo_2018.png/revision/latest/scale-to-width-down/1000?cb=20211217020941&path-prefix=vi",VTVcab1
