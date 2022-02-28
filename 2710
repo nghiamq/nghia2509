@@ -49,7 +49,7 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", In The Box
-http://gg.gg/beartv-inthebox
+https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="FOXlife HD" group-title="Film" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -84,8 +84,6 @@ http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="Film",HOLLYWOOD HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="axnhd" group-title="Film" tvg-logo="https://vthanh.xyz/ic/228.png", AXN HD
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg" group-title="Film",Blue Ant Entertainment
@@ -93,17 +91,37 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Film",Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-
-#EXTINF:0 tvg-id="hbohd" group-title="Film" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="hits" group-title="Film" tvg-logo="https://i.ibb.co/7yNvG1D/BOX-HITS.png", BOX HITS
 http://103.214.9.53/boxhits/mpegts
 #https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2.m3u8
 #EXTINF:0 tvg-id="hbo" group-title="Film" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg",HBO
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+
+#-*--⚽️| Thể thao-*--#
+#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
+http://103.125.191.32:8000/live1
+#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
+http://103.125.191.32:8000/live2
+#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="live4k",CVmedia Live 4K
+#http://103.125.191.32:8000/4KUHD
+#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 1 Premium
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f893%2fbein-sports-premium-1.png", Bein Sports 2 Premium
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png", Bein Sports 3 Premium
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 tvg-id="⚽️| Thể thao" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="⚽️| Thể thao" tvg-chno="999",K+SPORT1 HD
+http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="⚽️| Thể thao" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="⚽️| Thể thao" tvg-chno="998",K+SPORT2 HD
+http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="⚽️| Thể thao",Маtch ТV
+http://193.33.88.172/match_hd/mpegts
+#EXTINF:-1 group-title="⚽️| Thể thao",Маtch Futbol 1
+http://193.33.88.172/football1_hd/mpegts
+#EXTINF:-1 group-title="⚽️| Thể thao",Маtch Futbol 2
+http://193.33.88.172/football2_hd/mpegts
+#EXTINF:-1 group-title="⚽️| Thể thao",Маtch Futbol 3
+http://193.33.88.172/football3_hd/mpegts
 
 #-*--VTVCAB-*--#
 
@@ -218,38 +236,6 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 http://103.90.220.236/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="🇻| VTVcab" tvg-logo="https://vthanh.xyz/ic/102.png", Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 1
-http://103.125.191.32:8000/live1
-#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://cdn.hqth.me/cvmedia.png",CVmedia Live 2
-http://103.125.191.32:8000/live2
-#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="live4k",CVmedia Live 4K
-#http://103.125.191.32:8000/4KUHD
-#EXTINF:-1 tvg-id="vthanh" group-title="⚽️| Thể thao" tvg-logo="https://cdn.hqth.me/vthanhchannel.png", VThanh Channel
-https://cdnazsg.vthanh.xyz/livestream/mpegts
-
-#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png", Bein Sports 1 Premium
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f893%2fbein-sports-premium-1.png", Bein Sports 2 Premium
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-#EXTINF:-1 group-title="⚽️| Thể thao" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png", Bein Sports 3 Premium
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-
-#EXTINF:-1 tvg-id="⚽️| Thể thao" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="⚽️| Thể thao" tvg-chno="999",K+SPORT1 HD
-http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="⚽️| Thể thao" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="⚽️| Thể thao" tvg-chno="998",K+SPORT2 HD
-http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⚽️| Thể thao",Маtch ТV
-http://193.33.88.172/match_hd/mpegts
-#EXTINF:-1 group-title="⚽️| Thể thao",Маtch Futbol 1
-http://193.33.88.172/football1_hd/mpegts
-#EXTINF:-1 group-title="⚽️| Thể thao",Маtch Futbol 2
-http://193.33.88.172/football2_hd/mpegts
-#EXTINF:-1 group-title="⚽️| Thể thao",Маtch Futbol 3
-http://193.33.88.172/football3_hd/mpegts
-
-
 
 #-*--SCTV-*--#
 
@@ -451,10 +437,7 @@ https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png?w=345&h=210&mode=scale" group-title="HTV",HTV coop
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
-
-
 #-*--FTV-*--#
-
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="fashionhd" tvg-logo="https://vthanh.xyz/ic/233.png", Fashion TV
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -474,7 +457,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 #https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/5a/297732/z4b_VICTORIAS__475498.smil/chunklist_b15000000_sleng_t64MjE2MEAxNW1iaXQ=.m3u8
 
-
+#-*--THIEU NHI-*--#
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="THIEU NHI" tvg-logo="https://vthanh.xyz/ic/200.png", Cartoon Network HD
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
@@ -498,7 +481,7 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 
-
+#-*--Khoa Giáo  - Du Lịch K.Pha-*--#
 
 #EXTINF:0 group-title="Khoa Giáo  - Du Lịch K.Pha" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",LOVE NATURE
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -543,6 +526,7 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
 
+#-*--Địa Phương-*--#
 
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png",An Giang
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
@@ -752,36 +736,4 @@ https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x3/chunklist.m3u8|
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x2/chunklist.m3u8|Referer=https://xem.saoke2.tv/xem-live
 #http://gg.gg/90ptv10|Referer=https://xoilac.90phuttttt.xyz/live
-
-------Test-----
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png?v=1.0.0.1" tvg-id="HBO HD" tvg-name="HBO HD", HBO HD
-https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/hbohits.png?v=1.1.1.1" tvg-id="HBO Hits HD" tvg-name="HBO Hits HD", HBO Hits HD
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/hbosig.png?v=1.0.0.1" tvg-id="HBO Signature HD" tvg-name="HBO Signature HD", HBO Signature HD
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 group-title="Movies" tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png?v=1.1.1.1" tvg-id="HBO Family HD" tvg-name="HBO Family HD", HBO Family HD
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Movies" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png"?v=1.0.0.1" tvg-id="Cinemax HD" tvg-name="Cinemax HD", Cinemax HD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-
-
-
 
