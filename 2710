@@ -65,11 +65,8 @@ https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-
-#EXTINF:0 tvg-id="boxhits" group-title="Film" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX HITS
-#EXTVLCOPT:http-user-agent="BearTV"
-https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
-#http://gg.gg/beartv-boxhit|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
+http://vn1.vthanhtivii.xyz:8080/boxhits/mpegts
 
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
@@ -117,8 +114,11 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8", CINEMAX
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
-http://vn1.vthanhtivii.xyz:8080/boxhits/mpegts
+#EXTINF:0 tvg-id="boxhits" group-title="Film" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX HITS
+#EXTVLCOPT:http-user-agent="BearTV"
+https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
+#http://gg.gg/beartv-boxhit|Referer=http://sctvonline.vn/
+
 
 
 
