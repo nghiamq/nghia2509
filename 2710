@@ -609,8 +609,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 #EXTINF:0 group-title="Khoa Giáo  - Du Lịch K.Pha" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",LOVE NATURE
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/JCKt8sxRAcLvNcHd2HF9KY-970-75.jpg.webp" group-title="Khoa Giáo  - Du Lịch K.Pha",LOVE NATURE
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Khoa Giáo  - Du Lịch K.Pha" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png", National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Khoa Giáo  - Du Lịch K.Pha" tvg-logo="https://vthanh.xyz/ic/226.png", Nat Geo Wild HD
@@ -645,7 +644,8 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #http://gg.gg/cc-music|Referer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
-
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/JCKt8sxRAcLvNcHd2HF9KY-970-75.jpg.webp" group-title="Khoa Giáo  - Du Lịch K.Pha",LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 
 #-*--FTV-*--#
