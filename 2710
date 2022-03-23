@@ -156,9 +156,9 @@ https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 #-*--⚽️| Thể thao-*--#
 
-#EXTINF:-1  tvg-logo="https://www.vff.org.vn/wp-content/uploads/2022/03/Dubai-cup.jpg" ,Dubai cup1(tv360)
+#EXTINF:-1 tvg-id="Dubai cup1(tv360)" group-title="🅾️| Live" tvg-logo="https://www.vff.org.vn/wp-content/uploads/2022/03/Dubai-cup.jpg",Dubai cup1(tv360)
 http://live.tv360.vn/manifest/u23-dubaicup1/playlist_720p.m3u8
-#EXTINF:-1  tvg-logo="https://www.vff.org.vn/wp-content/uploads/2022/03/Dubai-cup.jpg",Dubai cup2(tv360)
+#EXTINF:-1 tvg-id="Dubai cup2(tv360)" group-title="🅾️| Live" tvg-logo="https://www.vff.org.vn/wp-content/uploads/2022/03/Dubai-cup.jpg",Dubai cup2(tv360)
 http://live.tv360.vn/manifest/u23-dubaicup2/playlist_720p.m3u8
 
 
