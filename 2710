@@ -168,7 +168,7 @@ http://livetv.dnsfor.me/channel.12.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="🅾️| Live" tvg-logo="https://i.ibb.co/FBbX7jn/Fight-Network-BEARTV.png" ,Fight Network
 https://srv1.adriatelekom.com/FightNetwork/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title=""🅾️| Live", KOK UFC
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="🅾️| Live", KOK UFC
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="🅾️| Live", FIGHTBOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
