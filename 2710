@@ -113,9 +113,6 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
-http://vn1.vthanhtivii.xyz:8080/boxhits/mpegts
-
 
 
 #EXTINF:-1 group-title="Thời sự" tvg-id="" tvg-name="ANTG" tvg-logo="http://images.zaltv.club/logo/anth.png", ANTG
