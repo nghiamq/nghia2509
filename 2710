@@ -56,15 +56,15 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1  tvg-name="IN THE BOX CHANNEL" group-title="Film" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png" tvg-chno="76" catchup="append" catchup-days="0.3" catchup-source="https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2_${start}.m3u8",In The BOX Channel
-http://gg.gg/HaNoiIPTV-In_The_Box_Channel
+#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+http://103.214.9.53:9981/stream/channelid/1609406817?profile=pass
 #EXTINF:0 tvg-id="" tvg-name="BOX MOVIE 1" group-title="Film" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1  tvg-name="BOX HITS HD" group-title="Film" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png" tvg-chno="75" catchup="append" catchup-days="0.3" catchup-source="https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2_${start}.m3u8",BOX Hits HD
-http://gg.gg/HaNoiIPTV-BOX_Hits_HD
+#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+http://103.214.9.53:9981/stream/channelid/1413015332?profile=pass
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent="CoocaaTV"
