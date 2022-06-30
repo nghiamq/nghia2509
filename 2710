@@ -30,12 +30,6 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/1.png", VTV1 HD FPT
-http://cdn.vthanhtivi.xyz:9981/stream/channelid/1179665700?profile=pass
-#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/3.png", VTV3 HD FPT
-http://cdn.vthanhtivi.xyz:9981/stream/channelid/913103262?profile=pass
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="http://cdn.vthanhtivi.xyz:8443/ic/8.png", VTV6 HD FPT
-http://cdn.vthanhtivi.xyz:9981/stream/channelid/1529616880?profile=pass
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="http://vthanh.live/ic/8.png", VTV6 HD
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="❤| VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6
@@ -53,7 +47,7 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-http://vthanhvnpt.duckdns.org:9981/stream/channelid/259335871?profile=pass
+http://live.vthanh.net:8080/inthebox
 #EXTINF:0 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
