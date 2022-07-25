@@ -47,7 +47,7 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", In The Box
-#https://pprex49o5aliv.vcdn.cloud/live/box-channel/playlist.m3u8
+https://pprex49o5aliv.vcdn.cloud/live/box-channel/playlist.m3u8
 #EXTINF:0 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
