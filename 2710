@@ -51,8 +51,8 @@ https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 #EXTINF:0 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-http://live.television4you.xyz:8081/boxhits/mpegts
+#EXTINF:0 tvg-id="boxhits" group-title="Film" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX HITS
+https://s.id/beartv-boxhit
 
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent="CoocaaTV"
