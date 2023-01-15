@@ -70,6 +70,9 @@ https://api.vthanhtivi.pw/v1/getlink/cliptv/838
 #EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
 https://api.vthanhtivi.pw/v1/getlink/mytv_web/105/hd
 
+#EXTINF:-1 tvg-id="sctv16hd" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
+https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="Film",HOLLYWOOD HD
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Film",WBTV
