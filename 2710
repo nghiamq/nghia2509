@@ -46,16 +46,8 @@ http://live.vthanhtivi.pw/hbo
 http://live.vthanhtivi.pw/cinemax
 
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://logo.anttv.xyz/200.png", Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.anttv.xyz/get/cliptv/822/playlist.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://logo.anttv.xyz/201.png", Hollywood Classics
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.anttv.xyz/get/cliptv/825/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="Film" logo="http://images.zaltv.club/logo/box_channel.png", Box 
-#http://jackmavietnam.ga/live/box
-https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
