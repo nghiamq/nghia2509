@@ -39,11 +39,12 @@ https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #-*--Film-*--#
 
-#EXTINF:0 tvg-id="hbohd" group-title="Film" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
-http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO HD
+http://live.vthanhtivi.pw/hbo
 
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3MqibtR0kleXt_5myrfzumOlwX5qntnnWsk0jHoOPwL2znY94NTgJrmcB4IBhzzADV8&usqp=CAU",Cinemax
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
+http://live.vthanhtivi.pw/cinemax
+
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://logo.anttv.xyz/200.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -52,20 +53,26 @@ https://api.anttv.xyz/get/cliptv/822/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.anttv.xyz/get/cliptv/825/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="Phim" logo="http://images.zaltv.club/logo/box_channel.png", Box 
+#EXTINF:0 type="stream" channelId="-1" group="Film" logo="http://images.zaltv.club/logo/box_channel.png", Box 
 #http://jackmavietnam.ga/live/box
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://logo.anttv.xyz/204.png", Box Hits
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.anttv.xyz/get/cliptv/839/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/822/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
 https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hitshd" tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="Film",HOLLYWOOD HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" group-title="Film",WBTV
-http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
+http://cdn-cf.vthanhtivi.pw/fptplay/warner-tv/bitrate_5000.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.kix-tv.com/assets/favicon.ico" group-title="Film",KIX
